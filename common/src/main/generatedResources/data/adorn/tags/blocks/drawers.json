@@ -74,6 +74,12 @@
     { "id": "adorn:ecologics/azalea_drawer", "required": false },
     { "id": "adorn:ecologics/flowering_azalea_drawer", "required": false },
     { "id": "adorn:ecologics/coconut_drawer", "required": false },
-    { "id": "adorn:ecologics/walnut_drawer", "required": false }
+    { "id": "adorn:ecologics/walnut_drawer", "required": false },
+    { "id": "adorn:the_aether/crystal_drawer", "required": false },
+    { "id": "adorn:the_aether/golden_oak_drawer", "required": false },
+    { "id": "adorn:the_aether/orange_drawer", "required": false },
+    { "id": "adorn:the_aether/skyroot_drawer", "required": false },
+    { "id": "adorn:the_aether/wisteria_drawer", "required": false },
+    { "id": "adorn:twigs/stripped_bamboo_drawer", "required": false }
   ]
 }
