@@ -74,6 +74,12 @@
     { "id": "adorn:ecologics/azalea_coffee_table", "required": false },
     { "id": "adorn:ecologics/flowering_azalea_coffee_table", "required": false },
     { "id": "adorn:ecologics/coconut_coffee_table", "required": false },
-    { "id": "adorn:ecologics/walnut_coffee_table", "required": false }
+    { "id": "adorn:ecologics/walnut_coffee_table", "required": false },
+    { "id": "adorn:paradise-lost/crystal_coffee_table", "required": false },
+    { "id": "adorn:paradise-lost/golden_oak_coffee_table", "required": false },
+    { "id": "adorn:paradise-lost/orange_coffee_table", "required": false },
+    { "id": "adorn:paradise-lost/skyroot_coffee_table", "required": false },
+    { "id": "adorn:paradise-lost/wisteria_coffee_table", "required": false },
+    { "id": "adorn:twigs/stripped_bamboo_coffee_table", "required": false }
   ]
 }
