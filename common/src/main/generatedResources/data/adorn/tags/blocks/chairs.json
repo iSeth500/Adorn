@@ -75,11 +75,11 @@
     { "id": "adorn:ecologics/flowering_azalea_chair", "required": false },
     { "id": "adorn:ecologics/coconut_chair", "required": false },
     { "id": "adorn:ecologics/walnut_chair", "required": false },
-    { "id": "adorn:paradise-lost/crystal_chair", "required": false },
-    { "id": "adorn:paradise-lost/golden_oak_chair", "required": false },
-    { "id": "adorn:paradise-lost/orange_chair", "required": false },
-    { "id": "adorn:paradise-lost/skyroot_chair", "required": false },
-    { "id": "adorn:paradise-lost/wisteria_chair", "required": false },
+    { "id": "adorn:the_aether/crystal_chair", "required": false },
+    { "id": "adorn:the_aether/golden_oak_chair", "required": false },
+    { "id": "adorn:the_aether/orange_chair", "required": false },
+    { "id": "adorn:the_aether/skyroot_chair", "required": false },
+    { "id": "adorn:the_aether/wisteria_chair", "required": false },
     { "id": "adorn:twigs/stripped_bamboo_chair", "required": false }
   ]
 }
