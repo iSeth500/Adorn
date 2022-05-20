@@ -75,11 +75,11 @@
     { "id": "adorn:ecologics/flowering_azalea_bench", "required": false },
     { "id": "adorn:ecologics/coconut_bench", "required": false },
     { "id": "adorn:ecologics/walnut_bench", "required": false },
-    { "id": "adorn:paradise-lost/crystal_bench", "required": false },
-    { "id": "adorn:paradise-lost/golden_oak_bench", "required": false },
-    { "id": "adorn:paradise-lost/orange_bench", "required": false },
-    { "id": "adorn:paradise-lost/skyroot_bench", "required": false },
-    { "id": "adorn:paradise-lost/wisteria_bench", "required": false },
+    { "id": "adorn:the_aether/crystal_bench", "required": false },
+    { "id": "adorn:the_aether/golden_oak_bench", "required": false },
+    { "id": "adorn:the_aether/orange_bench", "required": false },
+    { "id": "adorn:the_aether/skyroot_bench", "required": false },
+    { "id": "adorn:the_aether/wisteria_bench", "required": false },
     { "id": "adorn:twigs/stripped_bamboo_bench", "required": false }
   ]
 }
