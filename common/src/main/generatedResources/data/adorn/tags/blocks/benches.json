@@ -80,5 +80,6 @@
     { "id": "adorn:paradise-lost/orange_bench", "required": false },
     { "id": "adorn:paradise-lost/skyroot_bench", "required": false },
     { "id": "adorn:paradise-lost/wisteria_bench", "required": false },
+    { "id": "adorn:twigs/stripped_bamboo_bench", "required": false }
   ]
 }
