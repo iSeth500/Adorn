@@ -74,6 +74,12 @@
     { "id": "adorn:ecologics/azalea_kitchen_counter", "required": false },
     { "id": "adorn:ecologics/flowering_azalea_kitchen_counter", "required": false },
     { "id": "adorn:ecologics/coconut_kitchen_counter", "required": false },
-    { "id": "adorn:ecologics/walnut_kitchen_counter", "required": false }
+    { "id": "adorn:ecologics/walnut_kitchen_counter", "required": false },
+    { "id": "adorn:the_aether/crystal_kitchen_counter", "required": false },
+    { "id": "adorn:the_aether/golden_oak_kitchen_counter", "required": false },
+    { "id": "adorn:the_aether/orange_kitchen_counter", "required": false },
+    { "id": "adorn:the_aether/skyroot_kitchen_counter", "required": false },
+    { "id": "adorn:the_aether/wisteria_kitchen_counter", "required": false },
+    { "id": "adorn:twigs/stripped_bamboo_kitchen_counter", "required": false }
   ]
 }
